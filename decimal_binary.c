@@ -1,5 +1,11 @@
 #include <stdio.h>
- 
+
+// Algorithm
+// binary = ""
+// while(dec != 0) 
+//     binary.push( dec % 2 )
+//     dec = dec / 2
+
 int convert(int);
  
 int main()
